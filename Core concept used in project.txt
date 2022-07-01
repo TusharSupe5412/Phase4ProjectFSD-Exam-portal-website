@@ -1,0 +1,37 @@
+Core concepts used in the projects are as follows:
+
+1. Spring boot
+
+2. Spring date JPA
+
+3. MySQL database to store user data
+
+4. data structure
+
+5. Angular
+
+6. TypeScript
+
+7. spring web
+
+8. Maven
+
+9. APIs
+
+10. JavaScript
+
+11. CRUD operation
+
+12. Postman
+
+13. Material UI
+
+14.Sweet aleart
+
+
+
+
+
+
+
+
